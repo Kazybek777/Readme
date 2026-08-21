@@ -1,6 +1,16 @@
+import week1.Week1;
+
 import java.util.Scanner;
 
 void main() {
+
+    Week1 week1 = new Week1();
+//    week1.Table();
+    week1.TwoNumSum(56);
+    week1.ReversInt(321);
+    week1.Palindromic("asaassss");
+    week1.Even();
+
     Scanner in = new Scanner(System.in);
 
 //    User user = new User(2, "sss");
@@ -31,16 +41,6 @@ void main() {
 //        System.out.println(r * x * y + "area of a triangle\n");
 //
 //    }
-    for (var i = 1; i <= 9; i++){
-        for (var s = 1; s <= 9; s++){
-
-            System.out.print( s + " * " + i + " =" +i * s );
-            System.out.print("\t");
-        }
-        System.out.println();
 
 
-    }
-    String arr = "Понравилось. Лежит теперь в любимом. Но дифирамбы петь не буду. Ведь то что я увидел, развидеть я уже не смогу";
-    System.out.println(arr.length());
 }
