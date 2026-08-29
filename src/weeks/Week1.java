@@ -1,6 +1,4 @@
-package week1;
-
-import java.util.Arrays;
+package weeks;
 
 public class Week1 {
     static void main() {

@@ -1,4 +1,4 @@
-package week2;
+package weeks;
 
 public class Week2 {
 
