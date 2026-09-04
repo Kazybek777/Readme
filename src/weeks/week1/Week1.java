@@ -1,4 +1,4 @@
-package weeks;
+package weeks.week1;
 
 public class Week1 {
     static void main() {
@@ -10,7 +10,6 @@ public class Week1 {
         week1.reversInt(321);
         week1.palindromic("asa");
         week1.even();
-
 
 
 
