@@ -11,8 +11,6 @@ public class Week1 {
         week1.palindromic("asa");
         week1.even();
 
-
-
         int age = 20;
         System.out.println( age > 18 ? "Взрослый " : "дитя");
 
@@ -59,9 +57,7 @@ public class Week1 {
             }
             System.out.println();
 
-
         }
-
     }
 
 
